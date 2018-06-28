@@ -1,2 +1,2 @@
 Git is a distributedversion control system.
-Git is free softwarehappya.
+Git is free softwarehappya under the GPL.
